@@ -4,3 +4,4 @@ hay guys, this is my first git lesson
  
  hay we save nre things now 
  
+ just adding some texts
